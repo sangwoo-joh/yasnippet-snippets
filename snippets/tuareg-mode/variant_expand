@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: record_expand
-# key: ||
+# name: variant_expand
+# key: t
 # --
 | ${1:Constructor} of ${2:type}
-||$0
+ $0

@@ -2,4 +2,4 @@
 # name: val
 # key: val
 # --
-val ${1:var} : $0
+val ${1:var} : ${0:t}
