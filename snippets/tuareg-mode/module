@@ -3,5 +3,6 @@
 # key: mod
 # --
 module ${1:ModuleName} = struct
-  type ${2:t} = $0
+  ${2:body}
 end
+$0

@@ -3,3 +3,4 @@
 # key: let
 # --
 let ${1:def} = ${2:var} in
+$0

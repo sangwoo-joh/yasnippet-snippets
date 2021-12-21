@@ -3,5 +3,5 @@
 # key: wh
 # --
 while ${1:cond} do
-  $0
-done
+  ($0)
+done;

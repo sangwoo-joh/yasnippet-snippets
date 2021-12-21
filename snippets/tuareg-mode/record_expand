@@ -2,4 +2,5 @@
 # name: record_expand
 # key: ;
 # --
-; ${1:field}: ${2:type} ;$0
+; ${1:field}: ${2:type}
+;$0

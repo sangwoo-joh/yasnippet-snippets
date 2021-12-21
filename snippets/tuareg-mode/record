@@ -3,5 +3,6 @@
 # key: type
 # --
 type ${1:t} =
-  { ${2:field}: ${3:type} ;$0
+  { ${2:field}: ${3:type}
+  ;$0
   }
