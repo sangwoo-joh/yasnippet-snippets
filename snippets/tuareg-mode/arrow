@@ -2,4 +2,4 @@
 # name: arrow
 # key: a
 # --
-(${1:domain} -> ${0:range})
+(${1:domain} -> ${2:range}) $0
