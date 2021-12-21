@@ -2,5 +2,5 @@
 # name: let-in
 # key: let
 # --
-let ${1:def} = ${2:var} in
+let ${1:var} = ${2:exp} in
 $0
