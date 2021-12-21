@@ -3,5 +3,5 @@
 # key: match
 # --
 match ${1:struct} with
-  | ${2:pattern} -> $0
-  ${3:others}
+  | ${2:pattern} -> ${3:exp}
+  |$0

@@ -2,4 +2,4 @@
 # name: rec
 # key: rec
 # --
-let rec ${1:fun} ${2:args} = $0
+let rec ${1:name} ${2:args} = $0

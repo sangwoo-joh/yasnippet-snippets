@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: variant
+# key: tt
+# --
+type ${1:t} =
+  | ${2:Constructor} of ${3:type}
+  ||$0

@@ -2,4 +2,5 @@
 # name: pattern
 # key: |
 # --
-| ${1:pattern} -> $0
+| ${1:pattern} -> ${2:exp}
+|$0
