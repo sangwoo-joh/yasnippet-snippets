@@ -5,4 +5,3 @@
 module ${1:SigName} : sig
   ${2:body}
 end
-$0

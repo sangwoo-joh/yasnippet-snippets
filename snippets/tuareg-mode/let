@@ -3,4 +3,3 @@
 # key: let
 # --
 let ${1:var} = ${2:exp} in
-$0

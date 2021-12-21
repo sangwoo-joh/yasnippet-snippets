@@ -5,4 +5,3 @@
 module ${1:ModuleName} = struct
   ${2:body}
 end
-$0

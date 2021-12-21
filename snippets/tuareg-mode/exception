@@ -2,4 +2,4 @@
 # name: exception
 # key: exn
 # --
-exception ${1:ExnName} of ${2:t} $0
+exception ${1:ExnName} of ${2:t}

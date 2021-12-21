@@ -2,4 +2,4 @@
 # name: fun
 # key: f
 # --
-(fun ${1:args} -> ${0:body})
+(fun ${1:args} -> ${2:body})

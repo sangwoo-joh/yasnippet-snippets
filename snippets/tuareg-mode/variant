@@ -4,4 +4,3 @@
 # --
 type ${1:t} =
   | ${2:Constructor} of ${3:t}
-  $0

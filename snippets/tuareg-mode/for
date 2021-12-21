@@ -5,4 +5,3 @@
 for ${1:cond} do
   (${2:body})
 done;
-$0
