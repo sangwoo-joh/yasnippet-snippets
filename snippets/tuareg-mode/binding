@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: let-binding
+# key: =
+# --
+=
+${1:exp}
+in
