@@ -2,5 +2,6 @@
 # name: match
 # key: match
 # --
-match ${1:to_match} with
-      | ${2:matching} -> $0
+match ${1:struct} with
+  | ${2:pattern} -> $0
+  ${3:others}

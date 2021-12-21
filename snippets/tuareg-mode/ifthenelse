@@ -1,8 +1,6 @@
 # -*- mode: snippet -*-
-# name: ifthenelse
+# name: if-then-else
 # key: if
 # --
-if ${1:cond} then
-   $2
-else
-        $0
+if ${1:cond} then ( $2 )
+else ( $0 )

@@ -1,5 +1,5 @@
 # -*- mode: snippet -*-
-# name: let
+# name: let-in
 # key: let
 # --
-let ${1:var} $0
+let ${1:def} = ${2:var} in
