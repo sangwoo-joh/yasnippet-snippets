@@ -2,7 +2,7 @@
 # name: signature
 # key: sig
 # --
-module type ${1:S} : sig
+module ${1:SigName} : sig
   ${2:body}
 end
 $0

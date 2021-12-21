@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: module-type
+# key: mt
+# --
+module type ${1:S} = sig
+  ${2:body}
+end
+$0
