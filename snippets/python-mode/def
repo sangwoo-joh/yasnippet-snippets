@@ -1,14 +1,14 @@
 # -*- coding: utf-8 -*-
-# -*- mode: snippet -*-
-# name: method
-# key: self
-# group: object oriented
-# contributor: Yasser Gonz¨¢lez Fern¨¢ndez <yglez@uh.cu>
+# name: def
+# contributor: Orestis Markou
+# contributor: Yasser González Fernández <yglez@uh.cu>
+# key: def
 # --
-def ${1:name}(self, $2):
+def ${1:name}($2):
     """$3
     ${2:$
-    (let* ((indent
+      (let*
+        ((indent
             (concat "\n" (make-string (current-column) 32)))
            (args
             (mapconcat
