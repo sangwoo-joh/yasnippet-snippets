@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: jekyll
+# key: ---
+# contributor: Sangwoo Joh <work.sangwoo.joh@gmail.com>
+# --
+---
+layout: ${1:Layout}
+tags: [${2:Tags}]
+title: ${3:Title}
+${4:Others}
+---

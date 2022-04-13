@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: jekyll-leetcode
+# key: --l
+# contributor: Sangwoo Joh <work.sangwoo.joh@gmail.com>
+# --
+---
+layout: page
+tags: [problem-solving, leetcode, python, ${1:Tags}]
+title: ${2:Title}
+grand_parent: Problem Solving
+parent: LeetCode
+nav_exclude: true
+---
